@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:SF_jwt_rest_query_CCS_1011" connectorServiceName="CCS:SF_jwt_rest_query_CCS_1011"/>
+            <keyDetails collectionKey="CCS:SF_oauth_rest_query_CCS_1011" connectorServiceName="CCS:SF_oauth_rest_query_CCS_1011"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
